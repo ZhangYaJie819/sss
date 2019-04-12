@@ -1,0 +1,15 @@
+一，
+	ctrl+r    标尺线
+	左边工具栏第五个，切片工具，
+	ctrl+shift+alt+s   切图   保存多个图片shift进行多选，选择图片格式jpg，png-8，png-24，保存选择图片
+	厘米转换像素  头部导航，编辑，首选项，单位与标尺  
+二
+display：block；行转成块
+display：inline-block；
+display:none;
+display:inline;
+ 伪类清浮动  display：block；clear：both；content：”空格“；
+1个   上右下左
+2个   上下  左右
+3个   上  左右  下  
+
